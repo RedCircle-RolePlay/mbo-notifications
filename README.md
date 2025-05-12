@@ -18,3 +18,4 @@ An advanced and clean NUI-based notification system for QBCore servers.
 Adjust styles in style.css to match your server branding.
 
 You can add sounds, icons, or animations as needed.
+![mbo_notify](https://github.com/user-attachments/assets/1b41e3cb-6179-47d4-a1a2-71803ee426c0)
