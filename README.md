@@ -19,4 +19,5 @@ Adjust styles in style.css to match your server branding.
 
 You can add sounds, icons, or animations as needed.
 
-![mbo_notify](https://github.com/user-attachments/assets/fbefd7b1-c86c-4435-9496-3ae3c5dedd03)
+
+![mbo_logo](https://github.com/user-attachments/assets/f9db452e-8eb3-462c-97c2-97121be55511)
